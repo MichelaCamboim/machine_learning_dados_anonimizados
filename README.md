@@ -2,10 +2,6 @@
   <b>Seleção de Modelos de Machine Learning em Dados Multivariados e Anonimizados</b>
 </h1>
 
-<p style='text-align: justify;'>
-  _______________________________________________________________________________________________________
-</p>
-
 <h2 style='text-align: justify;'>
   Machine Learning para um Problema de Classificação Supervisionada.
 </h2>
@@ -26,6 +22,3 @@
   Neste projeto, dividimos as análises em duas partes contidas em dois scripts python: a parte 1 trata do pré-processamento dos dados e a parte 2 trata da modelagem.
 </p>
 
-<p style='text-align: justify;'>
-  _______________________________________________________________________________________________________
-</p>
